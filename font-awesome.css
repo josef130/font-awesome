@@ -2335,3 +2335,6 @@
   overflow: visible;
   clip: auto;
 }
+.tie-icon-fire:before {
+    content: "\e900";
+}
